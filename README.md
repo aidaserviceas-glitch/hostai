@@ -31,7 +31,14 @@ Full 10-section Airbnb listing audit with scoring, keyword gap analysis, competi
 
 `airbnb listing optimizer` `free airbnb seo tool` `airbnb title generator` `booking.com listing optimizer` `vrbo listing tool` `short term rental seo` `airbnb keyword tool` `airbnb description writer`
 
-## Related
+## Other BaseAI Tools
 
-- [ContentBase](https://contentbase-crw.pages.dev) — Etsy/Shopify/Amazon listing optimizer
-- [ShopScan](https://shopscan-eff.pages.dev) — Etsy SEO audit ($19)
+- [ReviewReply](https://reviewreply.pages.dev) — AI replies to Google/TripAdvisor/Airbnb reviews
+- [HostAI](https://hostai.pages.dev) — Airbnb/STR listing optimizer
+- [ContentBase](https://contentbase-crw.pages.dev) — Etsy/Shopify listing optimizer
+- [ProposalAI](https://proposalai-app.pages.dev) — Freelance proposal generator
+- [JobPostAI](https://jobpostai-app.pages.dev) — Job posting writer
+- [InvoiceChaser](https://invoicechaser-app.pages.dev) — Invoice payment reminder generator
+- [RepurposeAI](https://repurposeai-v2.pages.dev) — Turn one piece of content into 10
+
+All free to start, no signup. Full suite at [baseaitools.com](https://baseaitools.com).
